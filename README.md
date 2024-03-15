@@ -1,0 +1,1 @@
+# Assignment-of-object-in-typescript
